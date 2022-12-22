@@ -1,5 +1,4 @@
-# ohmyzsh
+## ohmyzsh script ## 
 
-
-<h1> Script to set up oh-my-zsh on ubuntu to save time <h1>
-Nothing more then that
+Script to set up oh-my-zsh on ubuntu to save time <br><br>
+Nothing more then that :)
